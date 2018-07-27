@@ -1,0 +1,44 @@
+<div id="content">
+  <h1>Adventure
+    <span class="subtitleFont">A text adventure game</span>
+  </h1>
+
+  <div id="mainTextbox">
+    <textarea class="storyText" id="storyText">{{ storyLine }}</textarea>
+    <br>
+  </div>
+
+  <div id="commandButtons">
+    <button *ngIf="eastButton" type="button" id="eastButton" (click)="directionButtonClick('east')">East</button>
+    <button *ngIf="westButton" type="button" id="westButton" (click)="directionButtonClick('west')">West</button>
+    <button *ngIf="northButton" type="button" id="northButton" (click)="directionButtonClick('north')">North</button>
+    <button *ngIf="southButton" type="button" id="southButton" (click)="directionButtonClick('south')">South</button>
+
+    <p class="headings">
+      <span class="scoreHead">Your score:</span>
+    </p>
+
+    <div id="score">
+      {{ score }}
+    </div>
+
+    <div id="inputCommands">
+
+      <input #input type="text" id="commandBox" placeholder="Enter a command">
+      <button type="button" (click)="enterCommand(input.value)">Enter</button>
+
+    </div>
+
+  </div>
+
+
+
+  <div id="inventory">
+    <h4>Inventory
+      <button id="expand" (click)="showInventory()"><img src="./../assets/img/plus.png"  alt="expand" /></button>
+    </h4>
+    <p *ngIf="displayInventory" class="item" id="invBox">
+      <span *ngFor="let item of inventory">{{ item }}<br></span>
+    </p>
+  </div>
+</div>

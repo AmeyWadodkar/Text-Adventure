@@ -1,0 +1,11 @@
+E:\Study\Web Tools\Assignments\games\Text-Adventure\TextAdventureApi\TextAdventureApi\obj\Debug\netcoreapp2.0\TextAdventureApi.csprojAssemblyReference.cache
+E:\Study\Web Tools\Assignments\games\Text-Adventure\TextAdventureApi\TextAdventureApi\obj\Debug\netcoreapp2.0\TextAdventureApi.csproj.CoreCompileInputs.cache
+E:\Study\Web Tools\Assignments\games\Text-Adventure\TextAdventureApi\TextAdventureApi\obj\Debug\netcoreapp2.0\TextAdventureApi.AssemblyInfoInputs.cache
+E:\Study\Web Tools\Assignments\games\Text-Adventure\TextAdventureApi\TextAdventureApi\obj\Debug\netcoreapp2.0\TextAdventureApi.AssemblyInfo.cs
+E:\Study\Web Tools\Assignments\games\Text-Adventure\TextAdventureApi\TextAdventureApi\bin\Debug\netcoreapp2.0\TextAdventureApi.deps.json
+E:\Study\Web Tools\Assignments\games\Text-Adventure\TextAdventureApi\TextAdventureApi\bin\Debug\netcoreapp2.0\TextAdventureApi.runtimeconfig.json
+E:\Study\Web Tools\Assignments\games\Text-Adventure\TextAdventureApi\TextAdventureApi\bin\Debug\netcoreapp2.0\TextAdventureApi.runtimeconfig.dev.json
+E:\Study\Web Tools\Assignments\games\Text-Adventure\TextAdventureApi\TextAdventureApi\bin\Debug\netcoreapp2.0\TextAdventureApi.dll
+E:\Study\Web Tools\Assignments\games\Text-Adventure\TextAdventureApi\TextAdventureApi\bin\Debug\netcoreapp2.0\TextAdventureApi.pdb
+E:\Study\Web Tools\Assignments\games\Text-Adventure\TextAdventureApi\TextAdventureApi\obj\Debug\netcoreapp2.0\TextAdventureApi.dll
+E:\Study\Web Tools\Assignments\games\Text-Adventure\TextAdventureApi\TextAdventureApi\obj\Debug\netcoreapp2.0\TextAdventureApi.pdb
